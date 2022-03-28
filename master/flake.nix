@@ -11,7 +11,6 @@
   inputs.src-opus-master.ref   = "refs/heads/master";
   inputs.src-opus-master.owner = "capocasa";
   inputs.src-opus-master.repo  = "nim-opus";
-  inputs.src-opus-master.dir   = "";
   inputs.src-opus-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
